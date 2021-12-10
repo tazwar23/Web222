@@ -1,0 +1,51 @@
+.text-center {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    width: 150px;
+}
+
+.item-label {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background {
+    background-color: rgb(255, 255, 255);
+    background-color: #000000;
+    opacity: 1;
+    background-image:  radial-gradient(#ffffff 1.05px, transparent 1.05px), radial-gradient(#ffffff 1.05px, #000000 1.05px);
+    background-size: 42px 42px;
+    background-position: 0 0,21px 21px;
+    
+}
+
+footer {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+
+.form-bg {
+    background-color: black;
+    color: white;
+    opacity: 80%;
+    width: 100%;
+    align-content: center;
+}
